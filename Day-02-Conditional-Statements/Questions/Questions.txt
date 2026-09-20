@@ -1,0 +1,85 @@
+JAVA DAILY TASKS
+DAY 02 - CONDITIONAL STATEMENTS
+================================
+
+Q01 - POSITIVE OR NEGATIVE
+--------------------------
+Get a number from the user and check whether the number is
+positive, negative, or zero.
+
+
+Q02 - ODD OR EVEN
+-----------------
+Get a number from the user and check whether it is odd or even.
+
+
+Q03 - LARGEST OF TWO NUMBERS
+----------------------------
+Get two numbers from the user and find the largest number.
+
+
+Q04 - SMALLEST OF TWO NUMBERS
+-----------------------------
+Get two numbers from the user and find the smallest number.
+
+
+Q05 - LARGEST OF THREE NUMBERS
+------------------------------
+Get three numbers from the user and find the largest number.
+
+
+Q06 - LEAP YEAR
+---------------
+Get a year from the user and check whether it is a leap year.
+
+
+Q07 - STUDENT GRADE
+-------------------
+Get a student's mark and display the grade.
+
+90 - 100  -> A
+80 - 89   -> B
+70 - 79   -> C
+60 - 69   -> D
+50 - 59   -> E
+Below 50  -> Fail
+
+
+Q08 - ELECTRICITY BILL
+----------------------
+Get electricity units from the user.
+
+0 - 100 units     -> Rs.5 per unit
+101 - 200 units   -> Rs.6 per unit
+Above 200 units   -> Rs.8 per unit
+
+Add 10% surcharge to the calculated bill.
+
+
+Q09 - DISCOUNT CALCULATION
+--------------------------
+Get the purchase amount from the user.
+
+Amount >= Rs.5000  -> 20% discount
+Amount >= Rs.3000  -> 15% discount
+Amount >= Rs.1000  -> 10% discount
+Below Rs.1000      -> No discount
+
+Display the discount amount and final amount.
+
+
+Q10 - LOAN ELIGIBILITY
+----------------------
+Get the user's age and monthly salary.
+
+Age >= 21
+AND
+Monthly salary >= Rs.30,000
+
+If both conditions are satisfied, display:
+
+Loan Eligible
+
+Otherwise display:
+
+Loan Not Eligible.
