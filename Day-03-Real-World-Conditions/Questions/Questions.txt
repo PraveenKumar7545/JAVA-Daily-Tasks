@@ -1,0 +1,160 @@
+JAVA DAILY TASKS
+DAY 03 - REAL-WORLD CONDITIONS
+==============================
+
+Q01 - ATM WITHDRAWAL
+--------------------
+Get the account balance and withdrawal amount from the user.
+
+Conditions:
+- Withdrawal amount must be greater than 0.
+- Withdrawal amount must be less than or equal to balance.
+- Minimum balance after withdrawal should be Rs.500.
+
+Display:
+Withdrawal Successful
+or
+Insufficient Balance
+or
+Invalid Withdrawal Amount
+
+
+Q02 - E-COMMERCE DELIVERY CHARGE
+---------------------------------
+Get the order amount from the user.
+
+Conditions:
+- Amount >= Rs.2000 -> Free Delivery
+- Amount >= Rs.1000 -> Rs.50 Delivery Charge
+- Amount < Rs.1000 -> Rs.100 Delivery Charge
+
+Display the order amount, delivery charge and final amount.
+
+
+Q03 - WATER USAGE CHARGE
+------------------------
+Get the number of water units used.
+
+Conditions:
+- 0 - 100 units   -> Rs.5 per unit
+- 101 - 200 units -> Rs.7 per unit
+- Above 200       -> Rs.10 per unit
+
+Calculate and display the total water bill.
+
+
+Q04 - WATER PARK TICKET
+-----------------------
+Get the age of the customer.
+
+Conditions:
+- Age below 5       -> Free
+- Age 5 - 12        -> Rs.100
+- Age 13 - 59       -> Rs.250
+- Age 60 and above  -> Rs.150
+
+Display the ticket price.
+
+
+Q05 - SIMPLE INTEREST
+---------------------
+Get principal amount, time in years and customer type.
+
+Customer types:
+1. Student
+2. General
+
+Interest rate:
+- Student -> 5%
+- General -> 7%
+
+Calculate:
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+Display the simple interest and total amount.
+
+
+Q06 - MOVIE TICKET PRICE
+------------------------
+Get the customer's age and show type.
+
+Age conditions:
+- Below 12 -> Child Ticket
+- 12 - 59  -> Adult Ticket
+- 60+      -> Senior Citizen Ticket
+
+Base ticket price:
+- Child -> Rs.120
+- Adult -> Rs.200
+- Senior Citizen -> Rs.150
+
+If show type is "IMAX", add Rs.100.
+
+Display the final ticket price.
+
+
+Q07 - EMPLOYEE BONUS
+--------------------
+Get employee salary and years of experience.
+
+Conditions:
+- Experience >= 10 years -> 20% bonus
+- Experience >= 5 years  -> 15% bonus
+- Experience >= 2 years  -> 10% bonus
+- Below 2 years          -> 5% bonus
+
+Display:
+Salary
+Bonus
+Final Salary
+
+
+Q08 - SHOPPING DISCOUNT
+-----------------------
+Get the shopping amount and customer membership type.
+
+Membership types:
+1. Premium
+2. Regular
+3. Non-Member
+
+Discount:
+Premium:
+- Amount >= Rs.5000 -> 25%
+- Otherwise -> 20%
+
+Regular:
+- Amount >= Rs.5000 -> 15%
+- Otherwise -> 10%
+
+Non-Member:
+- Amount >= Rs.5000 -> 5%
+- Otherwise -> No Discount
+
+Display discount and final amount.
+
+
+Q09 - PARKING FEE
+-----------------
+Get the number of hours a vehicle is parked.
+
+Conditions:
+- First 2 hours -> Rs.30 per hour
+- Next 3 hours -> Rs.20 per hour
+- Above 5 hours -> Rs.10 per hour
+
+Calculate and display the total parking fee.
+
+
+Q10 - MOBILE RECHARGE PLAN
+--------------------------
+Get the recharge amount.
+
+Conditions:
+- Rs.599 and above -> Unlimited Data + Calls
+- Rs.399 and above -> 2GB Data per Day + Calls
+- Rs.199 and above -> 1GB Data per Day + Calls
+- Below Rs.199     -> Basic Plan
+
+Display the selected recharge plan.
