@@ -1,0 +1,52 @@
+JAVA DAILY TASKS
+DAY 04 - LOOPS
+==============
+
+Q01 - PRINT 1 TO 10
+-------------------
+Write a Java program to print numbers from 1 to 10 using a for loop.
+
+
+Q02 - PRINT 10 TO 1
+-------------------
+Write a Java program to print numbers from 10 to 1 using a for loop.
+
+
+Q03 - EVEN NUMBERS
+------------------
+Get a number N from the user and print all even numbers from 1 to N.
+
+
+Q04 - ODD NUMBERS
+-----------------
+Get a number N from the user and print all odd numbers from 1 to N.
+
+
+Q05 - SUM OF NUMBERS
+--------------------
+Get a number N from the user and find the sum of numbers from 1 to N.
+
+
+Q06 - MULTIPLICATION TABLE
+--------------------------
+Get a number from the user and print its multiplication table from 1 to 10.
+
+
+Q07 - FACTORIAL
+---------------
+Get a number from the user and find its factorial.
+
+
+Q08 - COUNT DIGITS
+------------------
+Get a number from the user and count how many digits it contains.
+
+
+Q09 - REVERSE NUMBER
+--------------------
+Get a number from the user and reverse the number.
+
+
+Q10 - SUM OF DIGITS
+-------------------
+Get a number from the user and find the sum of all its digits.
