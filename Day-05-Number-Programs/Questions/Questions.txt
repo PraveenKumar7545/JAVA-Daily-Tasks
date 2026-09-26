@@ -1,0 +1,138 @@
+JAVA DAILY TASKS
+DAY 05 - NUMBER PROGRAMS
+========================
+
+
+Q01 - PRIME NUMBER
+------------------
+Get a number from the user and check whether the number is a prime number.
+
+Example:
+Input: 17
+Output: Prime Number
+
+
+Q02 - PALINDROME NUMBER
+-----------------------
+Get a number from the user and check whether the number is a palindrome.
+
+A palindrome number remains the same when reversed.
+
+Example:
+Input: 121
+Output: Palindrome Number
+
+
+Q03 - ARMSTRONG NUMBER
+----------------------
+Get a number from the user and check whether it is an Armstrong number.
+
+For a 3-digit number, the sum of the cubes of its digits should be
+equal to the original number.
+
+Example:
+153 = 1³ + 5³ + 3³
+153 = 153
+
+Output:
+Armstrong Number
+
+
+Q04 - PERFECT NUMBER
+--------------------
+Get a number from the user and check whether it is a perfect number.
+
+A perfect number is equal to the sum of its proper divisors.
+
+Example:
+28
+Factors: 1, 2, 4, 7, 14
+
+1 + 2 + 4 + 7 + 14 = 28
+
+Output:
+Perfect Number
+
+
+Q05 - FIBONACCI SERIES
+----------------------
+Get the number of terms from the user and print the Fibonacci series.
+
+Example:
+Input: 8
+
+Output:
+0 1 1 2 3 5 8 13
+
+
+Q06 - FACTORS
+-------------
+Get a number from the user and print all its factors.
+
+Example:
+Input: 24
+
+Output:
+1
+2
+3
+4
+6
+8
+12
+24
+
+
+Q07 - GREATEST COMMON DIVISOR
+-----------------------------
+Get two numbers from the user and find their Greatest Common Divisor (GCD).
+
+Example:
+Input:
+12
+18
+
+Output:
+GCD: 6
+
+
+Q08 - LEAST COMMON MULTIPLE
+---------------------------
+Get two numbers from the user and find their Least Common Multiple (LCM).
+
+Example:
+Input:
+12
+18
+
+Output:
+LCM: 36
+
+
+Q09 - PRIME NUMBERS
+-------------------
+Get a limit from the user and print all prime numbers from 1 to that limit.
+
+Example:
+Input: 20
+
+Output:
+2 3 5 7 11 13 17 19
+
+
+Q10 - STRONG NUMBER
+-------------------
+Get a number from the user and check whether it is a strong number.
+
+A strong number is a number where the sum of the factorials of its digits
+is equal to the original number.
+
+Example:
+145
+
+1! + 4! + 5!
+= 1 + 24 + 120
+= 145
+
+Output:
+Strong Number
