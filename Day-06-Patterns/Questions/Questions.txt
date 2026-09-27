@@ -1,0 +1,143 @@
+JAVA DAILY TASKS
+DAY 06 - PATTERN PROGRAMS
+=========================
+
+
+Q01 - STAR TRIANGLE
+-------------------
+Get the number of rows from the user and print the following pattern.
+
+Example:
+Input: 5
+
+*
+**
+***
+****
+*****
+
+
+Q02 - INVERTED STAR TRIANGLE
+----------------------------
+Get the number of rows from the user and print an inverted star triangle.
+
+Example:
+Input: 5
+
+*****
+****
+***
+**
+*
+
+
+Q03 - RIGHT TRIANGLE
+--------------------
+Get the number of rows from the user and print a right-aligned triangle.
+
+Example:
+Input: 5
+
+    *
+   **
+  ***
+ ****
+*****
+
+
+Q04 - NUMBER TRIANGLE
+---------------------
+Get the number of rows from the user and print the following pattern.
+
+Example:
+Input: 5
+
+1
+12
+123
+1234
+12345
+
+
+Q05 - INVERTED NUMBER TRIANGLE
+------------------------------
+Get the number of rows from the user and print:
+
+Example:
+Input: 5
+
+12345
+1234
+123
+12
+1
+
+
+Q06 - SQUARE PATTERN
+--------------------
+Get the number of rows from the user and print a square using stars.
+
+Example:
+Input: 5
+
+*****
+*****
+*****
+*****
+*****
+
+
+Q07 - HOLLOW SQUARE
+-------------------
+Get the number of rows from the user and print a hollow square.
+
+Example:
+Input: 5
+
+*****
+*   *
+*   *
+*   *
+*****
+
+
+Q08 - PYRAMID
+-------------
+Get the number of rows from the user and print a pyramid pattern.
+
+Example:
+Input: 5
+
+    *
+   ***
+  *****
+ *******
+*********
+
+
+Q09 - INVERTED PYRAMID
+----------------------
+Get the number of rows from the user and print an inverted pyramid.
+
+Example:
+Input: 5
+
+*********
+ *******
+  *****
+   ***
+    *
+
+
+Q10 - FLOYD'S TRIANGLE
+----------------------
+Get the number of rows from the user and print Floyd's Triangle.
+
+Example:
+Input: 5
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
