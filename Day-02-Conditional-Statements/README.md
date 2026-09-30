@@ -43,6 +43,16 @@ Day-02-Conditional-Statements/
 │   └── Q10_Loan_Eligibility.java
 │
 └── Screenshots/
+    ├── Output_1.png
+    ├── Output_2.png
+    ├── Output_3.png
+    ├── Output_4.png
+    ├── Output_5.png
+    ├── Output_6.png
+    ├── Output_7.png
+    ├── Output_8.png
+    ├── Output_9.png
+    └── Output_10.png
 ```
 
 ---
@@ -51,16 +61,16 @@ Day-02-Conditional-Statements/
 
 | No. | Problem                  | Main Concept            |
 | --- | ------------------------ | ----------------------- |
-| 01  | Positive or Negative     | `if-else`               |
-| 02  | Odd or Even              | Modulus `%`             |
-| 03  | Largest of Two Numbers   | `if-else`               |
-| 04  | Smallest of Two Numbers  | `if-else`               |
-| 05  | Largest of Three Numbers | `else-if`               |
-| 06  | Leap Year                | Conditions + `%`        |
-| 07  | Student Grade            | `else-if`               |
-| 08  | Electricity Bill         | Real-world conditions   |
-| 09  | Discount Calculation     | Conditions + percentage |
-| 10  | Loan Eligibility         | Logical `&&`            |
+| Q01 | Positive or Negative     | `if-else`               |
+| Q02 | Odd or Even              | Modulus `%`             |
+| Q03 | Largest of Two Numbers   | `if-else`               |
+| Q04 | Smallest of Two Numbers  | `if-else`               |
+| Q05 | Largest of Three Numbers | `else-if`               |
+| Q06 | Leap Year                | Conditions + `%`        |
+| Q07 | Student Grade            | `else-if`               |
+| Q08 | Electricity Bill         | Real-world conditions   |
+| Q09 | Discount Calculation     | Conditions + percentage |
+| Q10 | Loan Eligibility         | Logical `&&`            |
 
 ---
 
@@ -186,6 +196,68 @@ Checks whether a person is **eligible for a loan** based on their age and monthl
 
 ---
 
+## 🖥️ Output Screenshots
+
+### Q01 - Positive or Negative
+
+![Q01 Output](Screenshots/Output_1.png)
+
+---
+
+### Q02 - Odd or Even
+
+![Q02 Output](Screenshots/Output_2.png)
+
+---
+
+### Q03 - Largest of Two Numbers
+
+![Q03 Output](Screenshots/Output_3.png)
+
+---
+
+### Q04 - Smallest of Two Numbers
+
+![Q04 Output](Screenshots/Output_4.png)
+
+---
+
+### Q05 - Largest of Three Numbers
+
+![Q05 Output](Screenshots/Output_5.png)
+
+---
+
+### Q06 - Leap Year
+
+![Q06 Output](Screenshots/Output_6.png)
+
+---
+
+### Q07 - Student Grade
+
+![Q07 Output](Screenshots/Output_7.png)
+
+---
+
+### Q08 - Electricity Bill
+
+![Q08 Output](Screenshots/Output_8.png)
+
+---
+
+### Q09 - Discount Calculation
+
+![Q09 Output](Screenshots/Output_9.png)
+
+---
+
+### Q10 - Loan Eligibility
+
+![Q10 Output](Screenshots/Output_10.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 * ☕ Java
@@ -198,7 +270,7 @@ Checks whether a person is **eligible for a loan** based on their age and monthl
 
 ## ▶️ How to Run
 
-### 1. Open the Solutions Folder
+### Step 1 - Open the Solutions Folder
 
 Open the terminal inside the `Solutions` folder.
 
@@ -206,7 +278,7 @@ Open the terminal inside the `Solutions` folder.
 cd Solutions
 ```
 
-### 2. Compile a Java Program
+### Step 2 - Compile a Java Program
 
 For example:
 
@@ -214,17 +286,19 @@ For example:
 javac Q01_Positive_or_Negative.java
 ```
 
-### 3. Run the Program
+### Step 3 - Run the Program
 
 ```bash
 java Q01_Positive_or_Negative
 ```
 
+You can follow the same process for the remaining programs.
+
 ---
 
 ## ▶️ Compile All Programs
 
-You can compile all Java files inside the `Solutions` folder using:
+To compile all Java files inside the `Solutions` folder:
 
 ```bash
 javac *.java
@@ -248,37 +322,54 @@ java Q03_Largest_of_Two
 
 ## 📸 Screenshots
 
-The `Screenshots` folder contains screenshots of the **program outputs**.
+The `Screenshots` folder contains the output screenshots for all 10 Java programs.
 
-These screenshots help demonstrate the execution and results of the Java practice programs.
+Each screenshot is linked to its corresponding practice question above to make it easy to understand the program execution and output.
 
 ---
 
-## 🎯 Learning Goal
+## 🧠 What I Learned
 
-The main goal of **Day 02** is to understand how Java makes decisions using conditional statements.
-
-Through these 10 practice problems, I practiced:
+Through Day 02, I practiced:
 
 * Making decisions using `if`
 * Handling alternative conditions using `if-else`
 * Checking multiple conditions using `else-if`
 * Comparing values
 * Using logical operators
-* Using the modulus operator
-* Taking user input with `Scanner`
+* Using the modulus operator `%`
+* Taking user input using `Scanner`
+* Applying arithmetic operations
 * Solving simple real-world programming problems
+* Improving logical thinking through Java conditions
+
+---
+
+## 🎯 Learning Goal
+
+The main goal of **Day 02** is to build a strong foundation in **conditional statements and decision-making in Java**.
+
+These concepts are important for solving programming problems and will be used in upcoming Java topics.
 
 ---
 
 ## 📈 Progress
 
-**Day 02 completed ✅**
+| Day    | Topic                  | Status      |
+| ------ | ---------------------- | ----------- |
+| Day 02 | Conditional Statements | ✅ Completed |
 
 > Learning Java step by step by practicing small problems every day.
 
 ---
 
-### 👨‍💻 Practice Repository
+## 👨‍💻 Author
 
-This folder is part of my **Java Daily Practice** journey, where I practice Java concepts through hands-on coding problems and gradually improve my programming fundamentals.
+**M. Praveen Kumar**
+
+* GitHub: [PraveenKumar7545](https://github.com/PraveenKumar7545)
+* Repository: [JAVA-Daily-Tasks](https://github.com/PraveenKumar7545/JAVA-Daily-Tasks)
+
+---
+
+⭐ This folder is part of my **Java Daily Tasks** journey to improve my Java programming and problem-solving skills.
