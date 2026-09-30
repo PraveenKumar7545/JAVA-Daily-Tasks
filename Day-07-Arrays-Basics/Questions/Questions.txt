@@ -1,0 +1,113 @@
+JAVA DAILY TASKS
+DAY 07 - ARRAYS BASICS
+======================
+
+Q01 - PRINT ARRAY
+-----------------
+Create an integer array with 5 elements and print all the elements.
+
+Example:
+10 20 30 40 50
+
+
+Q02 - USER INPUT ARRAY
+----------------------
+Get the number of elements from the user.
+
+Store the elements in an integer array and print all the elements.
+
+
+Q03 - SUM OF ARRAY
+------------------
+Get the array elements from the user and calculate the sum of all elements.
+
+Example:
+Array: 10 20 30 40 50
+Sum: 150
+
+
+Q04 - AVERAGE OF ARRAY
+----------------------
+Get the array elements from the user and calculate the average.
+
+Example:
+Array: 10 20 30 40 50
+Average: 30.0
+
+
+Q05 - LARGEST ELEMENT
+---------------------
+Get the array elements from the user and find the largest element.
+
+Example:
+Array: 10 45 23 67 12
+Largest Element: 67
+
+
+Q06 - SMALLEST ELEMENT
+----------------------
+Get the array elements from the user and find the smallest element.
+
+Example:
+Array: 10 45 23 67 12
+Smallest Element: 10
+
+
+Q07 - EVEN AND ODD COUNT
+------------------------
+Get the array elements from the user.
+
+Count how many even numbers and odd numbers are present in the array.
+
+Example:
+Array: 10 15 20 25 30
+
+Even Count: 3
+Odd Count: 2
+
+
+Q08 - REVERSE ARRAY
+-------------------
+Get the array elements from the user and print the elements in reverse order.
+
+Example:
+Original Array:
+10 20 30 40 50
+
+Reverse Array:
+50 40 30 20 10
+
+
+Q09 - SEARCH ELEMENT
+--------------------
+Get the array elements from the user.
+
+Get another number to search in the array.
+
+If the element is present, display its index.
+
+Otherwise display:
+Element not found
+
+Example:
+Array: 10 20 30 40 50
+Search: 30
+
+Element found at index: 2
+
+
+Q10 - COPY ARRAY
+----------------
+Get the elements of an array from the user.
+
+Copy all elements into another array.
+
+Display both the original array and copied array.
+
+Example:
+
+Original Array:
+10 20 30 40 50
+
+Copied Array:
+10 20 30 40 50
