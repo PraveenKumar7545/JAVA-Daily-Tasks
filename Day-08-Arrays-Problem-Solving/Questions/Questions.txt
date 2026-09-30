@@ -1,0 +1,140 @@
+JAVA DAILY TASKS
+DAY 08 - ARRAYS PROBLEM SOLVING
+================================
+
+Q01 - FIND DUPLICATE ELEMENT
+----------------------------
+Get an integer array from the user.
+
+Find and display the duplicate elements in the array.
+
+Example:
+Array: 10 20 30 20 40 10
+
+Duplicate Elements:
+10
+20
+
+
+Q02 - FIND MISSING NUMBER
+-------------------------
+Given an array containing numbers from 1 to N with one number missing,
+find the missing number.
+
+Example:
+Array: 1 2 3 5
+
+Missing Number: 4
+
+
+Q03 - COUNT FREQUENCY
+---------------------
+Get an integer array from the user.
+
+Get another number from the user and count how many times that number
+appears in the array.
+
+Example:
+Array: 10 20 10 30 10 40
+Search Element: 10
+
+Frequency: 3
+
+
+Q04 - SECOND LARGEST ELEMENT
+----------------------------
+Get an integer array from the user and find the second largest element.
+
+Example:
+Array: 10 45 20 67 30
+
+Second Largest: 45
+
+
+Q05 - SECOND SMALLEST ELEMENT
+-----------------------------
+Get an integer array from the user and find the second smallest element.
+
+Example:
+Array: 10 45 20 67 30
+
+Second Smallest: 20
+
+
+Q06 - REMOVE DUPLICATES
+-----------------------
+Get an integer array from the user.
+
+Remove duplicate elements and display only unique elements.
+
+Example:
+Array: 10 20 10 30 20 40
+
+After Removing Duplicates:
+10 20 30 40
+
+
+Q07 - MERGE TWO ARRAYS
+----------------------
+Get two integer arrays from the user.
+
+Merge both arrays into a single array.
+
+Example:
+
+Array 1:
+10 20 30
+
+Array 2:
+40 50 60
+
+Merged Array:
+10 20 30 40 50 60
+
+
+Q08 - SORT ARRAY
+----------------
+Get an integer array from the user.
+
+Sort the array in ascending order.
+
+Example:
+Original Array:
+50 20 40 10 30
+
+Sorted Array:
+10 20 30 40 50
+
+
+Q09 - MOVE ZEROS TO END
+-----------------------
+Get an integer array from the user.
+
+Move all zero elements to the end of the array while maintaining
+the order of the non-zero elements.
+
+Example:
+Array:
+0 10 0 20 30 0 40
+
+Output:
+10 20 30 40 0 0 0
+
+
+Q10 - COMMON ELEMENTS
+---------------------
+Get two integer arrays from the user.
+
+Find and display the elements that are common in both arrays.
+
+Example:
+
+Array 1:
+10 20 30 40
+
+Array 2:
+20 30 50 60
+
+Common Elements:
+20
+30
