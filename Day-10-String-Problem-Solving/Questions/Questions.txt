@@ -1,0 +1,114 @@
+Day 10 - String Problem Solving
+===============================
+
+Q01. Count Vowels and Consonants
+
+Write a Java program to count the number of vowels and consonants in a given string.
+
+Input:
+Enter a string: Hello World
+
+Output:
+Vowels: 3
+Consonants: 7
+
+
+Q02. Count Digits
+
+Write a Java program to count the number of digits present in a given string.
+
+Input:
+Enter a string: Java123
+
+Output:
+Number of digits: 3
+
+
+Q03. Count Words
+
+Write a Java program to count the number of words in a given sentence.
+
+Input:
+Enter a sentence: Java is easy to learn
+
+Output:
+Number of words: 5
+
+
+Q04. Find First Character
+
+Write a Java program to find and print the first character of a given string.
+
+Input:
+Enter a string: Programming
+
+Output:
+First character: P
+
+
+Q05. Find Last Character
+
+Write a Java program to find and print the last character of a given string.
+
+Input:
+Enter a string: Programming
+
+Output:
+Last character: g
+
+
+Q06. Remove Vowels
+
+Write a Java program to remove all vowels from a given string.
+
+Input:
+Enter a string: Hello World
+
+Output:
+String without vowels: Hll Wrld
+
+
+Q07. Check Anagram
+
+Write a Java program to check whether two strings are anagrams of each other.
+
+Input:
+Enter first string: listen
+Enter second string: silent
+
+Output:
+The strings are anagrams.
+
+
+Q08. Find Duplicate Characters
+
+Write a Java program to find the duplicate characters in a given string.
+
+Input:
+Enter a string: programming
+
+Output:
+Duplicate characters: r, g, m
+
+
+Q09. Find Frequency of a Character
+
+Write a Java program to find the frequency of a given character in a string.
+
+Input:
+Enter a string: programming
+Enter a character: g
+
+Output:
+Frequency of g: 2
+
+
+Q10. Reverse Each Word
+
+Write a Java program to reverse each word in a given sentence without changing the word order.
+
+Input:
+Enter a sentence: Java is easy
+
+Output:
+Reversed words: avaJ si ysae
