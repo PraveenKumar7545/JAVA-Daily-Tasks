@@ -1,0 +1,112 @@
+Day 09 - Strings Basics
+=======================
+
+Q01. Print a String
+
+Write a Java program to read a string and print the given string.
+
+Input:
+Enter a string: Hello Java
+
+Output:
+String: Hello Java
+
+
+Q02. Find String Length
+
+Write a Java program to find the length of a given string.
+
+Input:
+Enter a string: Java
+
+Output:
+Length: 4
+
+
+Q03. Convert String to Uppercase
+
+Write a Java program to convert a given string into uppercase.
+
+Input:
+Enter a string: java programming
+
+Output:
+Uppercase: JAVA PROGRAMMING
+
+
+Q04. Convert String to Lowercase
+
+Write a Java program to convert a given string into lowercase.
+
+Input:
+Enter a string: JAVA PROGRAMMING
+
+Output:
+Lowercase: java programming
+
+
+Q05. Count Vowels
+
+Write a Java program to count the number of vowels in a given string.
+
+Input:
+Enter a string: Hello World
+
+Output:
+Number of vowels: 3
+
+
+Q06. Count Characters
+
+Write a Java program to count the number of characters in a string excluding spaces.
+
+Input:
+Enter a string: Java Programming
+
+Output:
+Characters excluding spaces: 16
+
+
+Q07. Reverse a String
+
+Write a Java program to reverse a given string.
+
+Input:
+Enter a string: Java
+
+Output:
+Reversed string: avaJ
+
+
+Q08. Check Palindrome
+
+Write a Java program to check whether a given string is a palindrome.
+
+Input:
+Enter a string: madam
+
+Output:
+The string is a palindrome.
+
+
+Q09. Compare Two Strings
+
+Write a Java program to compare two strings and check whether they are equal.
+
+Input:
+Enter first string: Java
+Enter second string: Java
+
+Output:
+Both strings are equal.
+
+
+Q10. Remove Spaces
+
+Write a Java program to remove all spaces from a given string.
+
+Input:
+Enter a string: Java Programming Language
+
+Output:
+String without spaces: JavaProgrammingLanguage
