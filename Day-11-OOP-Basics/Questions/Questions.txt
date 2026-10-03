@@ -1,0 +1,160 @@
+JAVA DAILY TASKS
+DAY 11 - OOP BASICS
+===================
+
+Q01 - STUDENT CLASS AND OBJECT
+------------------------------
+Create a Student class with the following properties:
+
+name
+age
+mark
+
+Create an object of the Student class and display all the details.
+
+Example:
+Name: Praveen
+Age: 21
+Mark: 85
+
+
+Q02 - EMPLOYEE CONSTRUCTOR
+--------------------------
+Create an Employee class with:
+
+name
+salary
+
+Create a constructor to initialize the employee details.
+
+Create an object and display the employee details.
+
+Example:
+Name: Arun
+Salary: Rs.30000
+
+
+Q03 - BOOK USING THIS KEYWORD
+-----------------------------
+Create a Book class with:
+
+title
+author
+price
+
+Use the this keyword inside the constructor to initialize the values.
+
+Display the book details.
+
+
+Q04 - RECTANGLE CLASS
+---------------------
+Create a Rectangle class with:
+
+length
+width
+
+Create methods to calculate:
+
+Area
+Perimeter
+
+Formula:
+
+Area = length × width
+
+Perimeter = 2 × (length + width)
+
+
+Q05 - BANK ACCOUNT ENCAPSULATION
+--------------------------------
+Create a BankAccount class with a private variable:
+
+balance
+
+Create methods:
+
+deposit()
+withdraw()
+displayBalance()
+
+Use encapsulation to protect the balance variable.
+
+Test the account using an object.
+
+
+Q06 - CAR OBJECTS
+-----------------
+Create a Car class with:
+
+brand
+model
+price
+
+Create two Car objects and display the details of both cars.
+
+
+Q07 - STATIC COUNTER
+--------------------
+Create a Student class with a static variable:
+
+studentCount
+
+Every time a Student object is created, increase the student count.
+
+Create three Student objects and display the total number of students.
+
+
+Q08 - CONSTRUCTOR OVERLOADING
+-----------------------------
+Create a Person class with:
+
+name
+age
+
+Create multiple constructors:
+
+1. Default constructor
+2. Constructor with name
+3. Constructor with name and age
+
+Create objects using all three constructors and display their details.
+
+
+Q09 - METHOD OVERLOADING
+------------------------
+Create a Calculator class with overloaded add() methods.
+
+Create methods:
+
+add(int, int)
+add(int, int, int)
+add(double, double)
+
+Call all three methods and display the results.
+
+
+Q10 - ARRAY OF OBJECTS
+----------------------
+Create a Student class with:
+
+name
+mark
+
+Create an array of Student objects.
+
+Store details of three students and display all student details.
+
+Example:
+
+Student 1:
+Name: Arun
+Mark: 85
+
+Student 2:
+Name: Kumar
+Mark: 90
+
+Student 3:
+Name: Ravi
+Mark: 78
