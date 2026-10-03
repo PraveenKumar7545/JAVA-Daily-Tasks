@@ -114,5 +114,4 @@ Day-09-Strings-Basics
 
 ![Q10 Output](Screenshots/Output_10.png)
 
-```
-```
+
