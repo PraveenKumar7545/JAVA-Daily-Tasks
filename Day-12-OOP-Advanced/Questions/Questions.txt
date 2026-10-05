@@ -1,0 +1,156 @@
+JAVA DAILY TASKS
+DAY 12 - OOP ADVANCED
+=====================
+
+Q01 - SINGLE INHERITANCE
+------------------------
+Create a parent class Animal with a method:
+
+eat()
+
+Create a child class Dog that inherits Animal.
+
+Add a method:
+
+bark()
+
+Create a Dog object and call both methods.
+
+
+Q02 - MULTILEVEL INHERITANCE
+----------------------------
+Create three classes:
+
+Animal
+Dog
+Puppy
+
+Animal should have:
+eat()
+
+Dog should have:
+bark()
+
+Puppy should have:
+play()
+
+Create a Puppy object and call all three methods.
+
+
+Q03 - HIERARCHICAL INHERITANCE
+------------------------------
+Create a parent class Vehicle with:
+
+start()
+
+Create two child classes:
+
+Car
+Bike
+
+Car should have:
+drive()
+
+Bike should have:
+ride()
+
+Create objects for both classes and call their methods.
+
+
+Q04 - METHOD OVERRIDING
+-----------------------
+Create a parent class Animal with:
+
+sound()
+
+Create a child class Dog that overrides:
+
+sound()
+
+Display different sounds from the parent and child classes.
+
+
+Q05 - SUPER KEYWORD
+--------------------
+Create a parent class Vehicle with:
+
+brand
+
+Create a child class Car with:
+
+model
+
+Use the super keyword to access the parent class variable.
+
+Display both brand and model.
+
+
+Q06 - ABSTRACT CLASS
+--------------------
+Create an abstract class Shape with:
+
+abstract void draw()
+
+Create a child class Circle that implements draw().
+
+Create a Circle object and call draw().
+
+
+Q07 - ABSTRACT METHOD
+---------------------
+Create an abstract class Employee with:
+
+abstract void calculateSalary()
+
+Create a child class Developer.
+
+Implement calculateSalary() in the Developer class.
+
+Display the calculated salary.
+
+
+Q08 - INTERFACE
+---------------
+Create an interface Printable with:
+
+void print()
+
+Create a class Document that implements Printable.
+
+Implement the print() method and display a message.
+
+
+Q09 - MULTIPLE INTERFACES
+-------------------------
+Create two interfaces:
+
+Camera
+MusicPlayer
+
+Camera should contain:
+takePhoto()
+
+MusicPlayer should contain:
+playMusic()
+
+Create a class Smartphone that implements both interfaces.
+
+Implement both methods and call them using a Smartphone object.
+
+
+Q10 - POLYMORPHISM
+------------------
+Create a parent class Animal with:
+
+sound()
+
+Create two child classes:
+
+Dog
+Cat
+
+Override sound() in both classes.
+
+Use a parent class reference to call the child methods.
+
+Display the different sounds.
