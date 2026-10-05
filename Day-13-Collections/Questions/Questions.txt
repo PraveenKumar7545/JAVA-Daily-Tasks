@@ -1,0 +1,78 @@
+JAVA DAILY TASKS
+DAY 13 - COLLECTIONS
+====================
+
+Q01 - ARRAYLIST
+---------------
+Create an ArrayList of names.
+
+Add 5 names to the ArrayList and display all the names.
+
+
+Q02 - ARRAYLIST WITH USER INPUT
+-------------------------------
+Get 5 numbers from the user.
+
+Store the numbers in an ArrayList.
+
+Display the numbers and calculate their sum.
+
+
+Q03 - LINKEDLIST
+----------------
+Create a LinkedList of fruits.
+
+Add 5 fruits to the LinkedList.
+
+Remove one fruit and display the remaining fruits.
+
+
+Q04 - HASHSET
+-------------
+Create a HashSet containing duplicate numbers.
+
+Display the HashSet and observe that duplicate values are removed.
+
+
+Q05 - TREESET
+-------------
+Create a TreeSet containing numbers.
+
+Add numbers in random order and display them in sorted order.
+
+
+Q06 - HASHMAP
+-------------
+Create a HashMap containing student names and marks.
+
+Store 5 students and their marks.
+
+Display all student names and marks.
+
+
+Q07 - TREEMAP
+-------------
+Create a TreeMap containing employee IDs and names.
+
+Add 5 employees and display the entries in sorted order of employee ID.
+
+
+Q08 - ITERATOR
+--------------
+Create an ArrayList containing 5 names.
+
+Use Iterator to display each name.
+
+
+Q09 - SORT COLLECTION
+---------------------
+Create an ArrayList containing numbers.
+
+Sort the numbers in ascending order and display the result.
+
+
+Q10 - REMOVE DUPLICATES
+-----------------------
+Create an ArrayList containing duplicate numbers.
+
+Remove duplicate values using a collection and display the final list.
