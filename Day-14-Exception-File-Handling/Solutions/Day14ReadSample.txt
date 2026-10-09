@@ -1,0 +1,2 @@
+Welcome to Java File Handling!
+Reading files using BufferedReader.

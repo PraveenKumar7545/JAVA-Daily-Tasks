@@ -1,0 +1,2 @@
+Welcome to Java File Handling!
+This file was created using FileWriter.

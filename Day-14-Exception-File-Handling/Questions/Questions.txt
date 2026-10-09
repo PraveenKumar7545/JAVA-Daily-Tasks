@@ -1,0 +1,66 @@
+JAVA DAILY TASKS
+DAY 14 - EXCEPTION & FILE HANDLING
+==================================
+
+Q01 - ARITHMETIC EXCEPTION
+--------------------------
+Divide a number by zero.
+Handle the ArithmeticException using try-catch.
+
+
+Q02 - ARRAY INDEX EXCEPTION
+---------------------------
+Create an integer array.
+Access an invalid array index and handle the exception.
+
+
+Q03 - NULL POINTER EXCEPTION
+----------------------------
+Create a String variable with a null value.
+Try to access its length and handle the NullPointerException.
+
+
+Q04 - TRY-CATCH
+---------------
+Get two integers from the user.
+Divide the first number by the second number.
+Handle invalid division using try-catch.
+
+
+Q05 - MULTIPLE CATCH
+--------------------
+Create a program that handles ArithmeticException
+and ArrayIndexOutOfBoundsException using multiple catch blocks.
+
+
+Q06 - FINALLY BLOCK
+-------------------
+Demonstrate try-catch-finally.
+Display a message from the finally block.
+
+
+Q07 - THROW KEYWORD
+-------------------
+Check a person's age.
+If the age is below 18, throw an IllegalArgumentException.
+Otherwise, display that the person is eligible.
+
+
+Q08 - CUSTOM EXCEPTION
+----------------------
+Create a custom exception called InvalidAgeException.
+Throw it when a person's age is below 18.
+Handle the exception.
+
+
+Q09 - WRITE FILE
+----------------
+Write a message into a text file using FileWriter.
+Close the file safely and display a success message.
+
+
+Q10 - READ FILE
+---------------
+Create a text file, write a message into it, and read
+the message using BufferedReader.
+Display the file contents.
