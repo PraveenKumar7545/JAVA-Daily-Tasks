@@ -1,0 +1,37 @@
+JAVA DAILY TASKS
+DAY 15 - MINI PROJECTS
+======================
+
+Q01 - STUDENT MANAGEMENT SYSTEM
+--------------------------------
+Create a Student Management System using Java.
+Store student ID, name, and marks.
+Allow the user to add students, display all students,
+and search for a student using the ID.
+
+Q02 - BANK ACCOUNT MANAGEMENT
+-----------------------------
+Create a Bank Account Management program.
+Allow the user to deposit money, withdraw money,
+and check the account balance.
+Prevent withdrawals that exceed the available balance.
+
+Q03 - ATM SIMULATION
+--------------------
+Create a simple ATM simulation.
+Allow the user to check balance, deposit money,
+withdraw money, and exit the program.
+Use a menu-driven approach.
+
+Q04 - NUMBER GUESSING GAME
+--------------------------
+Generate a random number between 1 and 100.
+Allow the user to guess the number.
+Display hints such as "Too high" or "Too low".
+Count the number of attempts.
+
+Q05 - TO-DO LIST APPLICATION
+----------------------------
+Create a menu-driven To-Do List application.
+Allow the user to add tasks, display tasks,
+and remove a task using its number.
