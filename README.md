@@ -475,4 +475,30 @@ Through this 15-day Java practice journey, I worked on:
 
 **Completed:** 15 / 15 Days
 
-**Focus:** Java Fundamentals, Problem Sol
+**Focus:** Java Fundamentals, Problem Solving, OOP, Collections, Exception Handling, File Handling, and Mini Projects.
+
+This repository represents my hands-on practice during a structured Java learning plan. I will continue improving the code, documentation, and project quality as I learn more.
+
+---
+
+## 🔗 Repository Links
+
+**GitHub Repository:**  
+[PraveenKumar7545/JAVA-Daily-Tasks](https://github.com/PraveenKumar7545/JAVA-Daily-Tasks)
+
+**GitHub Pages:**  
+[Java Daily Tasks](https://praveenkumar7545.github.io/JAVA-Daily-Tasks/)
+
+---
+
+## 👨‍💻 Author
+
+**Praveen Kumar M**
+
+B.Tech — Information Technology
+
+GitHub: [@PraveenKumar7545](https://github.com/PraveenKumar7545)
+
+---
+
+⭐ If you find this repository useful, feel free to explore the daily practice questions, Java solutions, and mini projects.
