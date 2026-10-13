@@ -5,7 +5,7 @@ A structured **15-Day Java Practice Repository** created to build strong Java pr
 This repository contains **Java programs, problem-solving exercises, screenshots of program outputs, and practice questions** completed during my Java learning journey.
 
 The main goal is to improve **Java programming, logical thinking, problem-solving, and coding consistency** through hands-on practice.
-
+ 
 ---
 
 ## 📌 About This Repository
