@@ -2,7 +2,7 @@
  
 A structured **15-Day Java Practice Repository** created to strengthen Java programming fundamentals through daily coding practice.
 
-This repository contains Java programs, problem-solving exercises, practice questions, output screenshots, and day-wise documentation covering Java fundamentals through Object-Oriented Programming, Collections, Exception Handling, File Handling, and Mini Projects.
+This repository contains Java programs, problem-solving exercises, practice questions, output screenshots, and day-wise documentation covering Java fundamentals through Object-Oriented Programming, Collections, Exception Handling, File Handling, and Mini Projects. 
 
 The goal is to improve **Java programming, logical thinking, problem-solving, coding consistency, and preparation for software development interviews** through hands-on practice.
 
