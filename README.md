@@ -18,7 +18,7 @@ Each day is organized into the following sections:
 - 💻 **Solutions** — Java source code for each problem
 - 🖥️ **Screenshots** — Program output screenshots
 - 📖 **README.md** — Daily topics, explanations, and execution instructions
-
+ 
 The consistent folder structure makes it easier to review solutions, understand concepts, and track learning progress.
 
 ---
