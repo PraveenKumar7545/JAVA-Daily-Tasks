@@ -9,7 +9,7 @@ The goal is to improve **Java programming, logical thinking, problem-solving, co
 --- 
    
 ## 📌 About This Repository 
-
+ 
 This repository documents my Java learning journey from basic programming concepts to practical console-based mini projects.
 
 Each day is organized into the following sections:
