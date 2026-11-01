@@ -13,7 +13,7 @@ The goal is to improve **Java programming, logical thinking, problem-solving, co
 This repository documents my Java learning journey from basic programming concepts to practical console-based mini projects.
 
 Each day is organized into the following sections:
-
+ 
 - 📝 **Questions** — Programming exercises and problem statements
 - 💻 **Solutions** — Java source code for each problem
 - 🖥️ **Screenshots** — Program output screenshots
