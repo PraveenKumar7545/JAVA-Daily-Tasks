@@ -14,7 +14,7 @@ This repository documents my Java learning journey from basic programming concep
 
 Each day is organized into the following sections:
  
-- 📝 **Questions** — Programming exercises and problem statements
+- 📝 **Questions** — Programming exercises and problem statements 
 - 💻 **Solutions** — Java source code for each problem
 - 🖥️ **Screenshots** — Program output screenshots
 - 📖 **README.md** — Daily topics, explanations, and execution instructions
