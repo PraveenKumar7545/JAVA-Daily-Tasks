@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Q02_Odd_or_Even {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
