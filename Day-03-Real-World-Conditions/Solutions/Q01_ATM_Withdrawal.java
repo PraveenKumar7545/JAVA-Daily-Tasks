@@ -8,7 +8,7 @@ public class Q01_ATM_Withdrawal {
 
         System.out.print("Enter account balance: ");
         double balance = scan.nextDouble();
-
+        
         System.out.print("Enter withdrawal amount: ");
         double withdrawal = scan.nextDouble();
 
